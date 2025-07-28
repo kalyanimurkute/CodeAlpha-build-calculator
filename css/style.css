@@ -6,6 +6,11 @@ body {
       height: 100vh;
       font-family: 'Segoe UI', sans-serif;
     }
+    .head{
+        color: white;
+        text-align: center;
+        margin-bottom: 10px;
+    }
     .title {
        color: white;
        text-align: center;
